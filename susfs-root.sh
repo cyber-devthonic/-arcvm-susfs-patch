@@ -1,6 +1,6 @@
 #!/bin/bash
 # ARCVM SUSFS + OverlayFS Auto-Root (KernelSU + SUSFS v1.4.2 + RW /system)
-# curl -Ls https://raw.githubusercontent.com/KaliRootSuperUser/arcvm-susfs-patch/main/susfs-root.sh | sudo bash -eu
+# curl -Ls https://raw.githubusercontent.com/cyber-devthonic/arcvm-susfs-patch/main/susfs-root.sh | sudo bash -eu
 
 set -euo pipefail
 

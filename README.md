@@ -3,7 +3,7 @@
 **One command. Full root hiding + systemless `/system` read-write.**
 
 ```bash
-curl -Ls https://raw.githubusercontent.com/KaliRootSuperUser/arcvm-susfs-patch/main/susfs-root.sh | sudo bash -eu
+curl -Ls https://raw.githubusercontent.com/cyber-devthonic/arcvm-susfs-patch/main/susfs-root.sh | sudo bash -eu
 ```
 
 ---
@@ -23,8 +23,8 @@ curl -Ls https://raw.githubusercontent.com/KaliRootSuperUser/arcvm-susfs-patch/m
 
 | Action | Command |
 |-------|--------|
-| **Root + SUSFS + RW** | `curl -Ls https://raw.githubusercontent.com/KaliRootSuperUser/arcvm-susfs-patch/main/susfs-root.sh \| sudo bash -eu` |
-| **Unroot** | `curl -Ls https://raw.githubusercontent.com/KaliRootSuperUser/arcvm-susfs-patch/main/susfs-unroot.sh \| sudo bash -eu` |
+| **Root + SUSFS + RW** | `curl -Ls https://raw.githubusercontent.com/cyber-devthonic/arcvm-susfs-patch/main/susfs-root.sh \| sudo bash -eu` |
+| **Unroot** | `curl -Ls https://raw.githubusercontent.com/cyber-devthonic/arcvm-susfs-patch/main/susfs-unroot.sh \| sudo bash -eu` |
 
 ---
 
